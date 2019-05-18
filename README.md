@@ -6,5 +6,5 @@ For example for the sentence:
 Working Sample from openui5-generic-app-testing
 
 
-##TO RUN
+#TO RUN
 `serve -s -p 8080`
