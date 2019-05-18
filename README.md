@@ -4,3 +4,7 @@ For example for the sentence:
 `I click on btnCount 3 times`
 
 Working Sample from openui5-generic-app-testing
+
+
+##TO RUN
+`serve -s -p 8080`
